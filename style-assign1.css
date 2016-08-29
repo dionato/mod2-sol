@@ -6,9 +6,14 @@
 }
 
 h1 {
-  align: center !important; /*Não está funcionando */
+  
   margin-bottom: 15px;
-  color: red;
+ }
+}
+
+h1 {
+  text-align: center;
+  color: blue;
 }
 
 p {
